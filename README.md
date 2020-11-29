@@ -1,8 +1,5 @@
 ### Seja Bem-vindo ao meu perfil 👋
 
-<!--
-**leonardoSaaads/leonardoSaaads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Aqui estão algumas coisas para você me conhecer melhor:
 
 - 🔭 Sou graduando no curso de Ciências & Tecnologia da UFRN
