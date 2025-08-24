@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, I'm Leonardo Saads Pinto
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=DevOps+Engineer+%7C+SRE+%7C+Network+Specialist;Monitoring+Critical+Infrastructure+24%2F7;400%2B+ISPs+Under+Management;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=DevOps+Engineer+%7C+SRE+%7C+Network+Specialist;Monitoring+Critical+Infrastructure;400%2B+ISPs+Under+Management;Open+Source+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -11,6 +11,8 @@
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://leonardoSaaads.github.io)
   
 </div>
+
+<br>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="250" />
 
@@ -120,30 +122,9 @@
 
 <div align="center">
 
-**[EN]** 💬 I'm always interested in discussing DevOps, SRE practices, and network infrastructure. Feel free to reach out for collaborations or just a tech chat!
-
-**[ES]** 💬 Siempre estoy interesado en discutir sobre DevOps, prácticas SRE e infraestructura de red. ¡No dudes en contactarme para colaboraciones o simplemente una charla técnica!
-
-<br>
-
-### 📫 How to reach me / Cómo contactarme:
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leonardo-saads-pinto-5a61731b4/)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@leonardosaads)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/leonardoSaaads)
-
-</div>
-
----
-
-<div align="center">
-  
-### 🌟 **[EN]** *"Building resilient infrastructure, one commit at a time"* 🌟
-### 🌟 **[ES]** *"Construyendo infraestructura resiliente, un commit a la vez"* 🌟
-
-<br>
-
-![](https://komarev.com/ghpvc/?username=leonardoSaaads&color=00FF00&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
