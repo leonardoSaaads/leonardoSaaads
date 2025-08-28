@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, I'm Leonardo Saads Pinto
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=DevOps+Engineer+%7C+SRE+%7C+Network+Specialist;Monitoring+Critical+Infrastructure;400%2B+ISPs+Under+Management;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=455&lines=DevOps+Engineer+%7C+SRE+%7C+Network+Specialist;Monitoring+Critical+Infrastructure;400%2B+ISPs+Under+Management;Open+Source+Enthusiast" alt="Typing SVG" />
 </div>
 
 ### 🌍 About Me / Sobre Mí
